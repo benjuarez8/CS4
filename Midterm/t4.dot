@@ -1,0 +1,15 @@
+digraph tree {
+  0[label="21 (d3)"]
+  0 -> 1
+  0 -> 6
+  1[label="35 (d2)"]
+  1 -> 2
+  1 -> 5
+  2[label="42 (d1)"]
+  2 -> 3
+  2 -> 4
+  3[shape="point",width=0.2]
+  4[shape="point",width=0.2]
+  5[shape="point",width=0.2]
+  6[shape="point",width=0.2]
+}
